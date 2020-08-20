@@ -4,5 +4,6 @@
 \Extract line items from tables on multiple pages
 \Parse Multipage Table
 \Parse Simple Document
+\Parse Typical Invoice
 \Parse with OCR
 \Parsing and reading data from Airline Tickets
